@@ -19,7 +19,7 @@ namespace Tyuiu.HubulovaVI.Sprint3.Task3.V20
             Console.WriteLine("* Тема: Оператор цикла foreach                                            *");
             Console.WriteLine("* Задание: 3                                                              *");
             Console.WriteLine("* Вариант #20                                                             *");
-            Console.WriteLine("* Выполнила: Хубулова Валерия Игоревна                                   *");
+            Console.WriteLine("* Выполнила: Хубулова Валерия Игоревна                                    *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Используя цикл foreach подсчитать количество букв в строке.             *");
